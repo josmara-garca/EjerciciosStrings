@@ -23,11 +23,9 @@ public class SumaArray {
         
         for (int suma: arrayEnteros){
         
-            total = total + suma;
-            
-        
+         System.out.println(suma);
     }   
-        System.out.println(total);
+       
     }
 }
            
